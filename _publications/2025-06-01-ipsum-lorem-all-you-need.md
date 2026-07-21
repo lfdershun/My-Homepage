@@ -10,5 +10,5 @@ slidesurl: 'http://yourwebsite.com/files/slides-ipsum-lorem.pdf'
 paperurl: 'https://openreview.net/forum?id=example123'
 codeurl: 'https://github.com/lfdershun/ipsum-lorem-all-you-need'
 bibtexurl: 'http://yourwebsite.com/files/bibtex-ipsum-lorem.bib'
-citation: 'John Smith, et al. (2026). "Ipsum Lorem is all you need." &lt;i&gt;Accepted at COML 2026 - Conference on Machine Learning (Oral)&lt;/i&gt;.'
+citation: 'John Smith, et al. (2026). "Ipsum Lorem is all you need." <i>Accepted at COML 2026 - Conference on Machine Learning (Oral)</i>.'
 ---
